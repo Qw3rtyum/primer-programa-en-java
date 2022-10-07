@@ -4,6 +4,7 @@ public class Prueba {
 
 		System.out.println("López y Laso Martínez");
 		System.out.println("22 años 2000");
+		System.out.println("Patatas fritas");
 
 	}
 }
